@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi 👋, I'm nuzhi</h1>
+  <h1 align="center">Hi 👋, I'm muzhi</h1>
   <h3 align="center">A passionate developer from ShangHai.</h3>
 </div>
 
@@ -51,7 +51,7 @@
   <a href="你的X(Twitter)链接">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱地址">
+  <a href="mailto:yin_zhe@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="你的个人博客或网站链接">
