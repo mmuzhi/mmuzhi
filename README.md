@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi 👋, I'm 你的名字</h1>
-  <h3 align="center">A passionate developer from 你的城市.</h3>
+  <h1 align="center">Hi 👋, I'm nuzhi</h1>
+  <h3 align="center">A passionate developer from ShangHai.</h3>
 </div>
 
 <div id="description" align="center">
@@ -37,7 +37,7 @@
 ### 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mumuzhi/mumuzhi/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
