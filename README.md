@@ -34,10 +34,7 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/anuraghazra/waka-readme-stats">
-        <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmuzhi&theme=tokyonight&hide_border=true&layout=compact" />
-      </a>
-    </td>
+      </td>
   </tr>
 </table>
 
