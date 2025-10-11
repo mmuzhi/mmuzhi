@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,7 +37,7 @@
 ### 🐍 My Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mumuzhi/mumuzhi/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
