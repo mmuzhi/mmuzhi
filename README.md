@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,python,go,java,docker,kubernetes,mysql,postgres,redis,aws,gcp&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,docker&perline=7" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
 </p>
 
