@@ -103,16 +103,16 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="你的领英(LinkedIn)链接">
+  <a href="LinkedIn链接">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="你的谷歌学术(Google Scholar)链接">
+  <a href="谷歌学术链接">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="mailto:yin_zhe@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="你的Hugging Face主页链接">
+  <a href="Hugging Face主页链接">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
   </a>
 </p>
