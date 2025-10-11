@@ -1,20 +1,23 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Muzhi</h1>
-  <h3 align="center">A Master's student at SJTU, exploring the intersection of Large Language Models and Code Intelligence.</h3>
+  <h3 align="center">A Master's student at SJTU, specializing in the intersection of Large Language Models and Software Engineering.</h3>
 </div>
 
 <div id="description" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33F7F7&center=true&vCenter=true&width=500&lines=LLM+Researcher+&+Engineer;Exploring+Code+Intelligence;Natural+Language+Processing;Master's+student+@+SJTU" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33F7F7&center=true&vCenter=true&width=550&lines=LLM+Interpretability;AI-driven+Code+Generation;Cross-language+Code+Translation;Master's+student+@+SJTU" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-### 🚀 My Research & Interests
+### 🚀 My Research Focus
 
-- 🔭 I’m currently working on **[在这里填写你当前的项目或研究方向, e.g., Agent-based Code Generation]**.
-- 🌱 My main research interests include **Model Fine-tuning**, **Code Generation & Understanding**, and **Agent Systems**.
-- 💬 Ask me about anything related to Python, PyTorch, and Large Language Models.
+- 🔭 My core research revolves around **Large Language Models for Code**, with a focus on three key areas:
+  1.  **🤖 Code Generation:** Exploring novel techniques for generating accurate and efficient code.
+  2.  **🌐 Code Translation:** Developing models for seamless translation between programming languages.
+  3.  **🔍 LLM Interpretability:** Uncovering the "why" behind model decisions in code-related tasks.
+
+- 💬 Feel free to discuss anything related to these topics, Python, or PyTorch!
 
 ---
 
