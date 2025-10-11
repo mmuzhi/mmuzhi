@@ -21,24 +21,10 @@
 
 ---
 
-### 📊 My Activity & Stats
+### 📊 My WakaTime Stats
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="mmuzhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
+
 ### 🐍 My Contribution Graph
 
 <div align="center">
