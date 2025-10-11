@@ -117,4 +117,4 @@ Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer-glowing.svg" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/trinib/trinib@main/images/footer-glowing.svg" width="100%">
