@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Muzhi</h1>
-  <h3 align="center">A Master's student at Shanghai Jiao Tong University (SJTU), focusing on Large Language Models and Code Intelligence.</h3>
+  <h3 align="center">A Master's student at SJTU, exploring the intersection of Large Language Models and Code Intelligence.</h3>
 </div>
 
 <div id="description" align="center">
@@ -10,27 +10,33 @@
 
 ---
 
-### 🔧 Technologies & Tools
+### 🚀 My Research & Interests
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,jupyter,docker,git,linux&perline=8" />
-  </a>
-</p>
+- 🔭 I’m currently working on **[在这里填写你当前的项目或研究方向, e.g., Agent-based Code Generation]**.
+- 🌱 My main research interests include **Model Fine-tuning**, **Code Generation & Understanding**, and **Agent Systems**.
+- 💬 Ask me about anything related to Python, PyTorch, and Large Language Models.
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Activity & Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="mmuzhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="mmuzhi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/waka-readme-stats">
+        <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmuzhi&theme=tokyonight&hide_border=true&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,6 +45,16 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+---
+
+### 🔧 My Toolkit
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,jupyter,docker,git,linux,vscode,bash&perline=10" />
+  </a>
+</p>
 
 ---
 
@@ -58,3 +74,5 @@
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer-glowing.svg" width="100%">
