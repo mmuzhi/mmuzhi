@@ -1,131 +1,65 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi 👋, I'm Muzhi</h1>
-  <h3 align="center">A Master's student at SJTU, specializing in the intersection of Large Language Models and Software Engineering.</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+  <h1>Hi 👋, I'm Muzhi</h1>
+  <h3>Master's Student @ SJTU | LLMs & Software Engineering</h3>
+
+  <p>
+    <a href="mailto:yin_zhe@sjtu.edu.cn">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="谷歌学术链接">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+    </a>
+    <a href="Hugging Face主页链接">
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=flat-square&logo=hugging-face&logoColor=black" />
+    </a>
+    <a href="LinkedIn链接">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7F7&center=true&vCenter=true&width=500&lines=LLM+Interpretability;AI-driven+Code+Generation;Cross-language+Code+Translation" alt="Typing SVG" /></a>
 </div>
 
-<div id="description" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33F7F7&center=true&vCenter=true&width=550&lines=LLM+Interpretability;AI-driven+Code+Generation;Cross-language+Code+Translation;Master's+student+@+SJTU" alt="Typing SVG" /></a>
+<hr/>
+
+<table align="center" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h3>🔭 Research Focus</h3>
+      <ul>
+        <li><b>🤖 Code Generation:</b> Efficient & accurate synthesis techniques.</li>
+        <li><b>🌐 Code Translation:</b> Cross-lingual model adaptation.</li>
+        <li><b>🔍 Interpretability:</b> Understanding LLM decision-making in SE.</li>
+      </ul>
+
+      <h3>🛠️ Tech Stack</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,wandb,docker,git,linux,vscode,bash&perline=6" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top" style="border: none;">
+      <h3>📊 Github Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">⏳ Coding Time</h3>
+<div align="center">
 </div>
 
----
+<h3 align="center">🐍 Contribution Graph</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-### 🚀 My Research Focus
-
-- 🔭 My core research revolves around **Large Language Models for Code**, with a focus on three key areas:
-  1.  **🤖 Code Generation:** Exploring novel techniques for generating accurate and efficient code.
-  2.  **🌐 Code Translation:** Developing models for seamless translation between programming languages.
-  3.  **🔍 LLM Interpretability:** Uncovering the "why" behind model decisions in code-related tasks.
-
-- 💬 Feel free to discuss anything related to these topics, Python, or PyTorch!
-
----
-
-### 📊 My WakaTime Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2033%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.9%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
-
-**我是早起的 🐤** 
-
-```text
-🌞 早晨                     11 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.38 % 
-🌆 白天                     69 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.31 % 
-🌃 傍晚                     60 commits          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.27 % 
-🌙 晚上                     9 commits           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.04 % 
-```
-📅 **我最有效率是在 星期六** 
-
-```text
-星期一                      12 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.05 % 
-星期二                      6 commits           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.03 % 
-星期三                      37 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.83 % 
-星期四                      16 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.74 % 
-星期五                      14 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.40 % 
-星期六                      38 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.50 % 
-星期日                      26 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.45 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-Python                   3 hrs 15 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.51 % 
-JSON                     56 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.17 % 
-Markdown                 19 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.76 % 
-HTML                     12 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.25 % 
-CSV                      7 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.60 % 
-
-🔥 编辑器: 
-VS Code                  4 hrs 53 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-🐱‍💻 项目: 
-XLLM_COT                 2 hrs 2 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.62 % 
-SLDPH                    1 hr 33 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.73 % 
-shimatan                 44 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.00 % 
-XLLM4SE                  14 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.83 % 
-Unknown Project          13 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 % 
-
-💻 操作系统: 
-Windows                  4 hrs 53 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-**我最常使用 Python** 
-
-```text
-Python                   9 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.25 % 
-TypeScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-HTML                     2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-JavaScript               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.25 % 
-Rust                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.25 % 
-```
-
-
-
-
- Last Updated on 22/12/2025 00:57:23 UTC
-<!--END_SECTION:waka-->
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mmuzhi/mmuzhi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 🔧 My Toolkit
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,jupyter,docker,git,linux,vscode,bash&perline=10" />
-  </a>
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="LinkedIn链接">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="谷歌学术链接">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="mailto:yin_zhe@sjtu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="Hugging Face主页链接">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%">
+</div>
