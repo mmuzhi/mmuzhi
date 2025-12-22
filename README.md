@@ -26,9 +26,8 @@
 <h3>🔭 Research Focus: Interpretability of Code LLMs</h3>
 <p>My research aims to open the "black box" of LLMs in Software Engineering tasks, focusing on:</p>
 <ul>
-<li><b>🧠 Mechanism Interpretability:</b> Identifying specific <b>neurons</b> and circuits responsible for programming language understanding (e.g., syntax handling, API calls).</li>
+<li><b>🧠 Mechanism Interpretability:</b> Identifying specific <b>neurons</b> and circuits responsible for programming language understanding.</li>
 <li><b>🤔 Reasoning Analysis:</b> Investigating the <b>Chain-of-Thought (CoT)</b> processes in code generation and debugging.</li>
-<li><b>🛠️ Reliable SE Agents:</b> Leveraging interpretability insights to build more robust and controllable coding assistants.</li>
 </ul>
 <h3>🛠️ Tech Stack</h3>
 <p>
