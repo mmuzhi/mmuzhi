@@ -7,7 +7,7 @@
     <a href="mailto:yin_zhe@sjtu.edu.cn">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=cXx8O3sAAAAJ&authuser=1">
+    <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=cXx8O3sAAAAJ">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
     </a>
     <a href="https://huggingface.co/MUMUZJHI">
@@ -15,64 +15,69 @@
     </a>
   </p>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=33F7F7&center=true&vCenter=true&width=600&lines=Mechanism+Interpretability+for+Code+LLMs;Neuron-level+Analysis+%26+Steering;Chain-of-Thought+Reasoning+in+SE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=33F7F7&center=true&vCenter=true&width=760&lines=Mechanism+Interpretability+for+Code+LLMs;Neuron-level+Analysis+%26+Steering;Chain-of-Thought+Reasoning+in+SE" alt="Typing SVG" />
+  </a>
 </div>
 
-<hr/>
+---
 
 <table align="center" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="60%" valign="top" style="border: none;">
-<h3>🔭 Research Focus: Interpretability of Code LLMs</h3>
-<p>My research aims to open the "black box" of LLMs in Software Engineering tasks, focusing on:</p>
+
+<td width="58%" valign="top" style="border: none; padding-right: 18px;">
+
+<h3>🔭 Research Focus</h3>
+<p>
+I work on <b>interpretability</b> for code LLMs in software engineering tasks, focusing on:
+</p>
+
 <ul>
-<li><b>🧠 Mechanism Interpretability:</b> Identifying specific <b>neurons</b> and circuits responsible for programming language understanding.</li>
-<li><b>🤔 Reasoning Analysis:</b> Investigating the <b>Chain-of-Thought (CoT)</b> processes in code generation and debugging.</li>
+  <li><b>🧠 Mechanism Interpretability</b>: finding neurons/circuits that encode programming-language knowledge.</li>
+  <li><b>🤔 Reasoning Analysis</b>: understanding Chain-of-Thought patterns in code generation & debugging.</li>
 </ul>
+
 <h3>🛠️ Tech Stack</h3>
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,wandb,docker,git,linux,vscode&perline=8" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,wandb,docker,git,linux,vscode&perline=6" />
+  </a>
 </p>
+
 </td>
-<td width="40%" valign="top" style="border: none;">
-<h3>📊 Coding Stats</h3>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2036%20mins-blue)
+<td width="42%" valign="top" style="border: none; padding-left: 18px;">
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-3.9%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue)
+<h3>📊 Coding</h3>
 
-📊 **本周消耗时间** 
+<!-- 用“卡片图”解决窄栏炸版问题：自适应宽度、整体更像主页 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&hide_border=true&rank_icon=github" width="100%"/>
+</p>
 
-```text
-🕑︎ 时区: Asia/Shanghai
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&hide_border=true" width="100%"/>
+</p>
 
-💬 编程语言: 
-Python                   1 hr 47 mins        █████████████████░░░░░░░░   66.42 % 
-JSON                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+<!-- 你也可以把其中一张换成 streak： 
+<img src="https://streak-stats.demolab.com?user=mmuzhi&hide_border=true" width="100%"/>
+-->
 
-🐱‍💻 项目: 
-SLDPH                    1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.46 % 
-XLLM_COT                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-shimatan                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-XLLM4SE                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-```
-
-
- Last Updated on 24/12/2025 07:15:36 UTC
-<!--END_SECTION:waka-->
-
-<div align="center">
-</div>
 </td>
+
 </tr>
 </table>
+
+<!-- Waka 明细：全宽 + 折叠，既不丑也不丢信息 -->
+<details>
+  <summary><b>📈 WakaTime Weekly Stats (click to expand)</b></summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+---
 
 <div align="center">
   <picture>
