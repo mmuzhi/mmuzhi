@@ -7,10 +7,10 @@
     <a href="mailto:yin_zhe@sjtu.edu.cn">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-    <a href="你的谷歌学术链接">
+    <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&hl=zh-CN&user=cXx8O3sAAAAJ&authuser=1">
       <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
     </a>
-    <a href="你的HuggingFace链接">
+    <a href="https://huggingface.co/MUMUZJHI">
       <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=flat-square&logo=hugging-face&logoColor=black" />
     </a>
   </p>
@@ -38,6 +38,10 @@
 </td>
 <td width="40%" valign="top" style="border: none;">
 <h3>📊 Coding Stats</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 </div>
 </td>
