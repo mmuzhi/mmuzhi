@@ -48,55 +48,6 @@ I work on <b>interpretability</b> for code LLMs in software engineering tasks, f
 
 <td width="42%" valign="top" style="border: none; padding-left: 18px;">
 
-<h3>📊 Coding</h3>
-
-<!-- 用“卡片图”解决窄栏炸版问题：自适应宽度、整体更像主页 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mmuzhi&show_icons=true&hide_border=true&rank_icon=github" width="100%"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmuzhi&layout=compact&hide_border=true" width="100%"/>
-</p>
-
-<!-- 你也可以把其中一张换成 streak： 
-<img src="https://streak-stats.demolab.com?user=mmuzhi&hide_border=true" width="100%"/>
--->
-
-</td>
-
-</tr>
-</table>
-
-<!-- Waka 明细：全宽 + 折叠，既不丑也不丢信息 -->
-<details>
-  <summary><b>📈 WakaTime Weekly Stats (click to expand)</b></summary>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2036%20mins-blue)
-
-📊 **本周消耗时间** 
-
-```text
-💬 编程语言: 
-Python                   1 hr 47 mins        █████████████████░░░░░░░░   66.42 % 
-JSON                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-
-🐱‍💻 项目: 
-SLDPH                    1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.46 % 
-XLLM_COT                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-shimatan                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Unknown Project          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-XLLM4SE                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-```
-
-
-<!--END_SECTION:waka-->
-
-</details>
 
 ---
 
