@@ -29,12 +29,12 @@
 
 <h3>🔭 Research Focus</h3>
 <p>
-I work on <b>interpretability</b> for code LLMs in software engineering tasks, focusing on:
+My research aims to open the "black box" of LLMs in Software Engineering tasks, focusing on:
 </p>
 
 <ul>
-  <li><b>🧠 Mechanism Interpretability</b>: finding neurons/circuits that encode programming-language knowledge.</li>
-  <li><b>🤔 Reasoning Analysis</b>: understanding Chain-of-Thought patterns in code generation & debugging.</li>
+  <li><b>🧠 Mechanism Interpretability</b>: Identifying specific neurons and circuits responsible for programming language understanding.</li>
+  <li><b>🤔 Reasoning Analysis</b>: Investigating Chain-of-Thought (CoT) processes in code generation and debugging.</li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
@@ -48,6 +48,26 @@ I work on <b>interpretability</b> for code LLMs in software engineering tasks, f
 
 <td width="42%" valign="top" style="border: none; padding-left: 18px;">
 
+<h3>🧩 Research Snapshot</h3>
+
+<ul>
+  <li><b>Focus:</b> Mechanistic interpretability for code LLMs</li>
+  <li><b>CoT:</b> analysis & evaluation for SE tasks</li>
+  <li><b>Currently:</b> file-level reasoning, verifiable traces</li>
+</ul>
+
+<p>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=cXx8O3sAAAAJ">Google Scholar</a>
+  ·
+  <a href="https://huggingface.co/MUMUZJHI">Hugging Face</a>
+  ·
+  <a href="mailto:yin_zhe@sjtu.edu.cn">Email</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
